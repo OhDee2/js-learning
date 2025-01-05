@@ -1,6 +1,8 @@
 # JavaScript Hoisting and Variables
 
-This project demonstrates the concepts of hoisting and variable scoping in JavaScript.
+This project demonstrates the topics detailed in the Javascript roadhmap.sh
+
+https://roadmap.sh/javascript
 
 ## Files
 
